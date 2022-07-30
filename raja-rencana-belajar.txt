@@ -7,4 +7,6 @@ RENCANA BELAJAR RAJA ADE
 
 - Belajar terus yuk
 
-- Tambah Belajar CSS
+
+- Belajar HTMl 5
+- Belajar CSS
